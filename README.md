@@ -1,2 +1,2 @@
-# practica
+# mi primer readme
 practica
